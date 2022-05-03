@@ -6,6 +6,13 @@ TagManager:
   tags:
   - CinemachineTarget
   - info
+  - canvas
+  - Peanuts
+  - Fish
+  - Almonds
+  - Milk
+  - Eggs
+  - Bread
   layers:
   - Default
   - TransparentFX
